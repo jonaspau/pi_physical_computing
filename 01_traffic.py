@@ -16,3 +16,6 @@ while True:
     green_led.on()
     sleep(2.5)
     green_led.off()
+    yellow_led.on()
+    sleep(1)
+    yellow_led.off()
